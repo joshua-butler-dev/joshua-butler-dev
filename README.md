@@ -1,9 +1,7 @@
 # I am Joshua Butler
 
-**Senior Software Engineer**
-
 ## About
-Experienced software engineer passionate about building scalable, maintainable systems. Specializing in Enterprise Software.
+Passionate about building scalable, maintainable systems. Specializing in Enterprise Software.
 
 ## Technical Expertise
 ```
