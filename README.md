@@ -1,21 +1,11 @@
-# I am Joshua Butler
+# Joshua Butler
 
-## About
-Passionate about building scalable, maintainable systems. Specializing in Enterprise Software.
+**Enterprise Software Architect**
 
-## Technical Expertise
-```
-Software Architecture, Backend Systems, Scalable Design
-```
+Designing and implementing scalable backend systems for enterprise applications. Focus on:
+- System architecture and design patterns
+- API design and microservices
+- Database optimization and scaling
+- Team leadership and mentorship
 
-## What I Bring
-- Production-grade code quality
-- Scalable system architecture  
-- Mentorship & knowledge sharing
-- Continuous learning mindset
-
-## Let's Work Together
-📧 Reach out via [GitHub](https://github.com/joshua-butler-dev) or [LinkedIn](https://linkedin.com/in/joshua-butler-dev)
-
----
-*Engineering excellence, one commit at a time.*
+**Technologies**: Java, Python, Go, PostgreSQL, MongoDB, Kafka, Redis, AWS, Docker, Kubernetes
