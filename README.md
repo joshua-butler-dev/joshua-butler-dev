@@ -1,5 +1,11 @@
-Joshua Butler
+# Joshua Butler
 
-Enterprise backend architect. System design, microservices, scalability.
+Enterprise backend architect designing scalable systems and microservices architectures.
 
-Java | Python | Go | PostgreSQL | Kafka | AWS | Kubernetes
+**Experience**: Building backend infrastructure for enterprise applications, system design, technical leadership
+
+**Core Technologies**: Java, Python, Go, PostgreSQL, Kafka, Redis, AWS, Kubernetes
+
+**Specialization**: System architecture, microservices design, performance optimization, team mentorship
+
+**Philosophy**: Build systems that are reliable, maintainable, and designed to scale
