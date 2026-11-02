@@ -1,20 +1,22 @@
-I am Joshua Butler
+Joshua Butler
+Predictive Analytics Engineer
 
-**Predictive Analytics & Time-Series Engineer**
+### Solutions Delivered
 
-**Problem 1: Resource Utilization Forecasting**
-- Built ARIMA + Prophet ensemble model
-- Achieved 91% MAPE on 2-week forecasts
-- Delivered 40% cost reduction through right-sizing
+**Resource Forecasting**
+Model: ARIMA + Prophet ensemble
+Result: 91% MAPE, 40% cost reduction
 
-**Problem 2: Operational Anomaly Detection**
-- Implemented Isolation Forest + Autoencoder hybrid
-- 94% precision, 87% recall performance
-- Detected outages 2 hours before production impact
+**Anomaly Detection**
+Model: Isolation Forest + Autoencoder
+Result: 94% precision, 87% recall, 2-hour early warning
 
-**Problem 3: Equipment Failure Prediction**
-- Developed Random Forest model on maintenance and sensor data
-- 89% accuracy predicting failures 7 days in advance
-- Prevented $2M in unplanned downtime
+**Failure Prediction**
+Model: Random Forest on maintenance + sensors
+Result: 89% accuracy 7 days ahead, $2M downtime prevented
 
-Methodology: Time-series analysis, statistical testing, and ensemble methods. Domain expertise is as important as algorithms.
+### Methodology
+
+Time-series analysis + statistical testing + ensemble methods. Domain expertise matters as much as algorithms.
+
+**Next:** Real-time streaming, causal inference
