@@ -1,11 +1,9 @@
 # Joshua Butler
 
-**Enterprise Software Architect**
+Software architect focused on enterprise systems design. Over a decade building backend infrastructure for companies at different scales - from startups to large enterprises.
 
-Designing and implementing scalable backend systems for enterprise applications. Focus on:
-- System architecture and design patterns
-- API design and microservices
-- Database optimization and scaling
-- Team leadership and mentorship
+I care deeply about system design, code quality, and mentoring engineers. Specializing in microservices, API design, and building teams that can scale.
 
-**Technologies**: Java, Python, Go, PostgreSQL, MongoDB, Kafka, Redis, AWS, Docker, Kubernetes
+**Primary Technologies**: Java, Python, Go, Kubernetes, AWS
+
+**Current Focus**: Enterprise architecture, scalable system design, technical leadership
