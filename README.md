@@ -1,80 +1,122 @@
-# Joshua Butler
+<div align="center">
 
-**Predictive Analytics & Time-Series Engineer**
 
-## Approach
+# Hi, I'm Joshua 👋
 
-Building predictive systems that solve real business problems. Not just models that work in notebooks, but production systems that drive decisions and save money.
 
-## Problems Solved
+### Biomedical Scientist · Applied Scientist & Senior Software Engineer
 
-### 📈 Resource Utilization Forecasting
 
-Predicting server, CPU, and storage requirements weeks in advance.
+*I build software for biological data, from omics to protein structure.*
 
-**Challenge:** Resources are expensive. Over-provision and you waste money. Under-provision and you face outages.
 
-**Solution:** ARIMA + Prophet ensemble combining traditional time-series methods with machine learning.
+</div>
 
-**Results:**
-- 91% MAPE on 2-week forecasts
-- 40% cost reduction through right-sizing
-- Eliminated emergency scaling events
-- Improved capacity planning accuracy
-
-**Implementation:** Python (statsmodels, Prophet), automated data pipelines, daily forecasts
-
-### 🚨 Operational Anomaly Detection
-
-Identifying unusual patterns in system behavior before they become outages.
-
-**Architecture:** Hybrid approach combining isolation forests and autoencoders for complementary detection patterns.
-
-**Performance:**
-- 94% precision (few false alarms)
-- 87% recall (catching real issues)
-- 2-hour early warning before production impact
-- Automated alerting to operations team
-
-**Signals Monitored:** CPU usage, memory, disk I/O, network traffic, application latencies, queue depths
-
-### ⚙️ Equipment Failure Prediction
-
-Predicting equipment failures 7 days in advance enables preventive maintenance instead of emergency replacement.
-
-**Features:** Historical maintenance logs, sensor readings, usage patterns, environmental factors
-
-**Model:** Random Forest trained on historical failure events and normal operation.
-
-**Results:**
-- 89% accuracy predicting failures 7 days ahead
-- Prevented $2M in unplanned downtime
-- Enabled scheduled maintenance during low-traffic windows
-- Reduced emergency repair costs by 60%
-
-**Maintenance Optimization:** Using predictions to schedule maintenance strategically, minimize service disruption.
-
-## Methodology
-
-**Foundation:** Time-series analysis with statistical rigor. Proper handling of seasonality, trends, and anomalies.
-
-**Enhancement:** Machine learning capturing non-linear patterns and complex interactions.
-
-**Ensemble Approach:** Combining multiple methods. Different models capture different signals.
-
-**Domain Expertise:** Understanding the business context. Not all predictions matter equally—focus on high-impact signals.
-
-## Key Insight
-
-Domain expertise matters as much as algorithms. Understanding infrastructure, business constraints, and operational realities shapes better models and more actionable predictions.
-
-## Next Priorities
-
-- Real-time streaming anomaly detection
-- Causal inference identifying root causes
-- Prescriptive recommendations (not just prediction)
-- Automated response systems
 
 ---
 
-*Predictions that prevent problems.*
+
+## 🧬 About me
+
+
+I'm a biomedical scientist at heart. The questions that keep me curious are biological ones: which genes and pathways separate two conditions, which markers hold up across cohorts, how protein structures differ, and how cell populations shift in an experiment.
+
+
+I answer them with code. I came to biology from computer science, and after about ten years building software, as an engineer, a quantitative developer and now an applied scientist in healthcare tech, I hold my scientific tools to production standards: sound statistics, clean pipelines, and results anyone can reproduce.
+
+
+- 🔬 Right now I'm deep in **biomarker discovery and pathway analysis**
+- 🧫 I love **protein structure comparison and flow-cytometry data**
+- ☁️ My engineering home is **Python, Go and Kubernetes on AWS**
+- 💬 Ask me about **FDR control, gating strategies, or event-driven systems**
+
+
+---
+
+
+## 🧪 Things I've built
+
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+
+### 🎯 Biomark
+Takes omics and clinical data from raw files to ranked candidate biomarkers, with stability scoring and fully versioned runs.
+
+
+<sub>Python · scikit-learn · pandas · FastAPI · React</sub>
+</td>
+<td width="50%" valign="top">
+
+
+### 🧭 Pathwise
+Answers the question after every differential expression run: which pathways are actually moving?
+
+
+<sub>Python · SciPy · pandas · Snakemake</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+
+### 🔍 Foldscope
+Compares experimental and predicted protein structures and pinpoints exactly where they differ.
+
+
+<sub>Python · Biopython · MDAnalysis · NumPy</sub>
+</td>
+<td width="50%" valign="top">
+
+
+### 🌊 Flowgate
+Flow-cytometry gating defined as code instead of drawn by hand, with one population table per study.
+
+
+<sub>Python · FlowKit · scikit-learn · Snakemake</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+
+### 🏥 LabBridge
+Turns clinical lab results into de-identified, FHIR-normalized datasets ready for research.
+
+
+<sub>Python · FHIR · Airflow · PostgreSQL · AWS</sub>
+</td>
+<td width="50%" valign="top">
+
+
+### 📈 Signal Forge
+A quantitative research pipeline with point-in-time data and walk-forward backtests on Kubernetes.
+
+
+<sub>Python · Polars · C++ · Kubernetes · AWS</sub>
+</td>
+</tr>
+</table>
+
+
+---
+
+
+## 🛠️ What I work with
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,go,java,spring,ts,nodejs,cpp,fastapi,react,postgres,docker,kubernetes,aws&perline=13" />
+</p>
+
+
+<div align="center">
+
+
+*Biology first, software always.* 🧬
+
+
+</div>
+
